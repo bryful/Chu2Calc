@@ -1,0 +1,8 @@
+/build/
+/out/
+/release/
+/.vs/
+*.user
+*.pro.user.*
+/reference/out/
+Chu2Calc.ini

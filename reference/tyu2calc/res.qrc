@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tyu2calc.qm</file>
+    </qresource>
+</RCC>
